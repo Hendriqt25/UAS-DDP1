@@ -1,0 +1,220 @@
+{
+    "Members": [
+        {
+            "Username": "Manda",
+            "Member": "VIP",
+            "Pin": "110606",
+            "Saldo": 431500.0,
+            "Diamond": 175.75
+        },
+        {
+            "Username": "Hendri",
+            "Member": "Biasa",
+            "Pin": "200306",
+            "Saldo": 120500.0,
+            "Diamond": 85.0
+        },
+        {
+            "Username": "Nabila",
+            "Member": "VIP",
+            "Pin": "240706",
+            "Saldo": 0.0,
+            "Diamond": 0
+        },
+        {
+            "Username": "Juju",
+            "Member": "Biasa",
+            "Pin": "213945",
+            "Saldo": 4901500.0,
+            "Diamond": 45.0
+        }
+    ],
+    "Studios": {
+        "1": {
+            "Pagi": [
+                {
+                    "Judul": "Kaka Boss",
+                    "Jam_Tayang": "09:00",
+                    "Kategori": "VIP",
+                    "Harga": 50
+                },
+                {
+                    "Judul": "Kaka Boss",
+                    "Jam_Tayang": "11:00",
+                    "Kategori": "Biasa",
+                    "Harga": 50
+                }
+            ],
+            "Siang": [
+                {
+                    "Judul": "Laura",
+                    "Jam_Tayang": "14:00",
+                    "Kategori": "VIP",
+                    "Harga": 55
+                },
+                {
+                    "Judul": "Laura",
+                    "Jam_Tayang": "16:00",
+                    "Kategori": "Biasa",
+                    "Harga": 55
+                }
+            ],
+            "Malam": [
+                {
+                    "Judul": "The Exorcist",
+                    "Jam_Tayang": "19:30",
+                    "Kategori": "VIP",
+                    "Harga": 60
+                },
+                {
+                    "Judul": "The Exorcist",
+                    "Jam_Tayang": "20:00",
+                    "Kategori": "Biasa",
+                    "Harga": 60
+                }
+            ]
+        },
+        "2": {
+            "Pagi": [
+                {
+                    "Judul": "Agak Laen",
+                    "Jam_Tayang": "08:45",
+                    "Kategori": "VIP",
+                    "Harga": 50
+                },
+                {
+                    "Judul": "Agak Laen",
+                    "Jam_Tayang": "11:00",
+                    "Kategori": "Biasa",
+                    "Harga": 50
+                }
+            ],
+            "Siang": [
+                {
+                    "Judul": "Bolehkah Sekali Saja Kumenangis",
+                    "Jam_Tayang": "13:30",
+                    "Kategori": "VIP",
+                    "Harga": 55
+                },
+                {
+                    "Judul": "Bolehkah Sekali Saja Kumenangis",
+                    "Jam_Tayang": "15:00",
+                    "Kategori": "Biasa",
+                    "Harga": 55
+                }
+            ],
+            "Malam": [
+                {
+                    "Judul": "Exhuma",
+                    "Jam_Tayang": "19:30",
+                    "Kategori": "VIP",
+                    "Harga": 60
+                },
+                {
+                    "Judul": "Exhuma",
+                    "Jam_Tayang": "22:30",
+                    "Kategori": "Biasa",
+                    "Harga": 60
+                }
+            ]
+        },
+        "3": {
+            "Pagi": [
+                {
+                    "Judul": "DUMB AND DUMBER ",
+                    "Jam_Tayang": "09:00",
+                    "Kategori": "VIP",
+                    "Harga": 50
+                },
+                {
+                    "Judul": "DUMB AND DUMBER ",
+                    "Jam_Tayang": "11:30",
+                    "Kategori": "Biasa",
+                    "Harga": 50
+                }
+            ],
+            "Siang": [
+                {
+                    "Judul": "Hijack 1971 ",
+                    "Jam_Tayang": "14:40",
+                    "Kategori": "VIP",
+                    "Harga": 55
+                },
+                {
+                    "Judul": "Hijack 1971",
+                    "Jam_Tayang": "17:00",
+                    "Kategori": "Biasa",
+                    "Harga": 55
+                }
+            ],
+            "Malam": [
+                {
+                    "Judul": "don't breathe",
+                    "Jam_Tayang": "20:00",
+                    "Kategori": "VIP",
+                    "Harga": 60
+                },
+                {
+                    "Judul": "don't breathe",
+                    "Jam_Tayang": "22:40",
+                    "Kategori": "Biasa",
+                    "Harga": 60
+                }
+            ]
+        }
+    },
+    "Membership": {
+        "VIP": 500000
+    },
+    "Topup": {
+        "1": 1000,
+        "5": 4500,
+        "10": 9000,
+        "20": 19500,
+        "50": 48500,
+        "75": 79500,
+        "100": 98500
+    },
+    "voucher": [
+        {
+            "kode": "tokoasik",
+            "diskon": 50,
+            "status": "aktif",
+            "jumlah_penggunaan": 1,
+            "penggunaan_terakhir": null
+        },
+        {
+            "kode": "tokogratis",
+            "diskon": 25,
+            "status": "Digunakan",
+            "jumlah_penggunaan": 0,
+            "penggunaan_terakhir": "08-12-2024 16:47:05"
+        },
+        {
+            "kode": "tokotiket",
+            "diskon": 10,
+            "status": "Digunakan",
+            "jumlah_penggunaan": 0,
+            "penggunaan_terakhir": "07-12-2024 00:52:07"
+        }
+    ],
+    "Block_akun": {
+        "Hendri": true
+    },
+    "Daftar_tiket": {
+        "1": {
+            "Judul": "hijack 1971",
+            "Username": "Manda",
+            "Jam_tayang": "17:00",
+            "status": "Terpesan",
+            "Total_Harga": 41.25
+        },
+        "2": {
+            "Judul": "Hijack 1971",
+            "Username": "Juju",
+            "Jam_tayang": "17:00",
+            "status": "Terpesan",
+            "Total_Harga": 55
+        }
+    }
+}
